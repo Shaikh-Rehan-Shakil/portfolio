@@ -5,9 +5,10 @@ A simple text centric Portfolio site, inspired by "The Mono-Space Web" - owickst
 
 ## Screenshots
 
-![Dark Mode](https://github.com/shaikh-rehan-shakil/portfolio/preview/portfolio-dark.png)
+![Dark Mode](https://github.com/Shaikh-Rehan-Shakil/portfolio/blob/master/preview/portfolio-dark.png?raw=true)
 
-![Light Mode](https://github.com/shaikh-rehan-shakil/portfolio/preview/portfolio-white.png)
+![Light Mode](https://github.com/Shaikh-Rehan-Shakil/portfolio/blob/master/preview/portfolio-white.png?raw=true)
+
 ## Demo
 
 https://portfolio-nine-ecru-49.vercel.app/
